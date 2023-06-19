@@ -40,7 +40,7 @@ for( let kitten of kittens){
           female ++;
         }
 }
-kittenInfo = `The total number os kittens is ${total}, ${male} of them are males and ${female} of them are females.`
+kittenInfo = `The total number of kittens is ${total}, ${male} of them are males and ${female} of them are females.`
 console.log(kittens);   
 console.log(male);
 // Don't edit the code below here!
